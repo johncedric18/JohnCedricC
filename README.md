@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @johncedric
 - 👀 I’m interested in ... AWS, React JS, Node JS
-- 🌱 I’m currently learning ... AWS
+- 🌱 I’m currently learning ... React Native
 - 💞️ I’m looking to collaborate on ... AWS, React JS, Node JS
 - 📫 How to reach me ... john.carandang.tech@gmail.com
 
